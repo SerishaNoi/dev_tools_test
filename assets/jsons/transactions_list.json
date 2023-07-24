@@ -1,0 +1,50 @@
+[
+    {
+        "transactionData": "11.08.2022",
+        "sum": "112$",
+        "commission": "0.21$",
+        "total": "111.79$",
+        "transactionsNumber": "3DD524D",
+        "operationType": "TRANSFER"
+    },
+    {
+        "transactionData": "11.08.2022",
+        "sum": "21$",
+        "commission": "0.11$",
+        "total": "20.89$",
+        "transactionsNumber": "3B332N1",
+        "operationType": "WITHDRAWAL"
+    },
+    {
+        "transactionData": "11.08.2022",
+        "sum": "1000$",
+        "commission": "1$",
+        "total": "999",
+        "transactionsNumber": "3NN87H1",
+        "operationType": "TRANSFER"
+    },
+    {
+        "transactionData": "11.08.2022",
+        "sum": "88$",
+        "commission": "0.88$",
+        "total": "87.12",
+        "transactionsNumber": "TT48R22",
+        "operationType": "TRANSFER"
+    },
+    {
+        "transactionData": "11.08.2022",
+        "sum": "555$",
+        "commission": "1$",
+        "total": "554",
+        "transactionsNumber": "33T22TT",
+        "operationType": "REFILL"
+    },
+    {
+        "transactionData": "11.08.2022",
+        "sum": "222$",
+        "commission": "0.88$",
+        "total": "22112",
+        "transactionsNumber": "R98R888",
+        "operationType": "REFILL"
+    }
+]
